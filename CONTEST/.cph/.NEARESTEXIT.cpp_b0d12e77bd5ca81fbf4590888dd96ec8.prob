@@ -1,0 +1,1 @@
+{"name":"Local: NEARESTEXIT","url":"d:\\CODECHEF\\CONTEST\\NEARESTEXIT.cpp","tests":[{"id":1663172655042,"input":"6\n1\n50\n100\n30\n51\n73","output":"LEFT\nLEFT\nRIGHT\nLEFT\nRIGHT\nRIGHT"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\CODECHEF\\CONTEST\\NEARESTEXIT.cpp","group":"local","local":true}
